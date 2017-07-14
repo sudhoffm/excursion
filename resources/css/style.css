@@ -8,3 +8,26 @@ h1 {
 	color: white;
 	text-align: center;
 }
+h4 {
+	color: Aquamarine;
+	font-size: 16px;
+	text-align: center;
+}
+p {
+	color: gray;
+	font-size: 21px;
+	text-align: center;
+}
+h2 {
+	color: white;
+    font-weight: 300;
+    font-size: 42px;
+    text-align: center;
+}
+h3 {
+	color: gray;
+	text-align: right;
+}
+video {
+	text-align: center;
+}
